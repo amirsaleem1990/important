@@ -1,0 +1,10 @@
+#shell_command_from_python
+#python
+#ubuntu_shell
+#run_app_from_python
+#python_alaram
+
+import os
+os.system(‘say “your program has finished”’)
+
+os.system(‘libreoffice data.csv’)
