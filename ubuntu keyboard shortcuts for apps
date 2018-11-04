@@ -1,0 +1,15 @@
+keyboard shortcuts
+
+#shutdown
+shutdown -h no
+
+#current window screenshot and copy to clipboard
+gnome-screenshot -w -c
+
+# selected area screenshot  and copy to clipboard
+gnome-screenshot -a -c
+
+
+#pinta
+pinta
+
