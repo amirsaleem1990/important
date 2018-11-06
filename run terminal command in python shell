@@ -6,5 +6,7 @@
 
 import os
 os.system(‘say “your program has finished”’)
+!say “your program has finished”
 
 os.system(‘libreoffice data.csv’)
+!libreoffice data.csv
