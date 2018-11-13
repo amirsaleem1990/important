@@ -1,4 +1,14 @@
 $ history
 # terminal commands history
 
+$ history
+1 cd Photos/
+2 lt
+3 find . -name "*AMES*"
+4 cfdisk /dev/hda
+5 ssh ubuntu@192.168.1.1
+
+You can quickly run a command again by typing the number preceded by an exclama-
+tion mark ( ! ) character. For example, to run the command numbered 3 in the history
+list, you can type !3 and press the Enter key.
 --------------------------------
