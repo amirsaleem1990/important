@@ -18,3 +18,10 @@ $ nmap localhost
 # Open current foler from terminal
 nautilus .
 -------------------------------
+# create folder from terminal
+    mkdir foder_name
+    # if you write a name without " " and use space in your folder name than ubuntu will create 
+    # a folders eg: <mkdir amir noman hassan> create 3 folders and  <mkdir "amir noman hassan"> will create one folder
+-------------------------------
+# create txt file and open in one command from terminal
+subl file.txt # if sublime exist in your computer, else: gedit file_name
