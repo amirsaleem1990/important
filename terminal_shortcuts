@@ -15,3 +15,6 @@ list, you can type !3 and press the Enter key.
 $ nmap localhost
 # local host par kya chal raha h?
 -------------------------------
+# Open current foler from terminal
+nautilus .
+-------------------------------
