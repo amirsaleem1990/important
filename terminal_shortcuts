@@ -12,3 +12,6 @@ You can quickly run a command again by typing the number preceded by an exclama-
 tion mark ( ! ) character. For example, to run the command numbered 3 in the history
 list, you can type !3 and press the Enter key.
 --------------------------------
+$ nmap localhost
+# local host par kya chal raha h?
+-------------------------------
