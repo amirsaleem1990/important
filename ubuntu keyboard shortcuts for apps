@@ -13,3 +13,5 @@ gnome-screenshot -a -c
 #pinta
 pinta
 
+# suspend
+systemctl suspend
