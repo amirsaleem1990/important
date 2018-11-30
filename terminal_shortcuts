@@ -32,7 +32,8 @@ eog -f file_path
 # open file (almost for any file type)
 gio open file_path
 -------------------------------
-
+# run video on vlc without interface
+# cvlc video_file_name
 -------------------------------
 
 -------------------------------
