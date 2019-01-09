@@ -1,0 +1,8 @@
+when we need to copy and peste, we do that in  3 steps
+1- text selection
+2- CTRL+C
+3- CTRL+V
+
+you can do the same with 2 steps:
+1- select the text
+2- click middle mouse button.
