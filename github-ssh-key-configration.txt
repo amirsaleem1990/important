@@ -1,0 +1,11 @@
+ssh-keygen -t rsa -b 4096 -C "amirsaleem1990@hotmail.com"
+echo "Press enter"
+echo "Press enter"
+echo "Press enter"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+sudo apt-get install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+firefox https://github.com/settings/ssh/new
+echo "Title: eg: Company Laptop"
+echo "Key: The key in your clipboad so Enter CTRL+V"
