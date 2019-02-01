@@ -1,0 +1,16 @@
+l = list("caTools",
+"ROCR",
+"mice",
+"rpart",
+"rpart.plot",
+"randomForest",
+"caret",
+"e1071",
+"ggplot2",
+"maps",
+"ggmap",
+"reshape2")
+for (i in l){
+	install.packages(i)
+	cat("***********" , i,  "completed", ("***********")
+}
