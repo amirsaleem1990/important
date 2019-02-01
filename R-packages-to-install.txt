@@ -12,5 +12,5 @@ l = list("caTools",
 "reshape2")
 for (i in l){
 	install.packages(i)
-	cat("***********" , i,  "completed", ("***********")
+	cat("\n\n\n***********" , i,  "completed", "***********\n\n\n")
 }
